@@ -5,13 +5,25 @@
 
 ---
 
-## 🚀 Proyectos Destacados & Estadías
+## 🎓 Proyecto de Estadías / Desarrollo Profesional
 
-> Una selección de mis trabajos más importantes en desarrollo, ingeniería, modelado y análisis de datos.
+> Descripción y capturas del sistema desarrollado durante el periodo de estadías profesionales.
+
+<p align="center">
+  <!-- Reemplaza "estadia1.png", "estadia2.png" por los nombres de tus archivos subidos a este repositorio -->
+  <img src="estadia1.png" alt="Captura 1 del Proyecto" width="45%" />
+  <img src="estadia2.png" alt="Captura 2 del Proyecto" width="45%" />
+</p>
+
+- **Descripción:** Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales adaptadas a requerimientos reales.
+- **Tecnologías utilizadas:** React, Node.js, PostgreSQL, CSS / Tailwind.
+
+---
+
+## 🚀 Otros Proyectos Destacados
 
 | Proyecto / Área | Descripción & Tecnologías |
 | :--- | :--- |
-| 🎓 **Proyecto de Estadías / Desarrollo Profesional** | Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales orientadas a entornos reales de negocio y académicos. |
 | 🌐 **JGuitarAppjs** | Aplicación web interactiva desarrollada para la gestión, práctica y visualización de recursos musicales. *(JavaScript, CSS, GitHub Pages)* |
 | 🕷️ **Web Scraping & Extracción de Datos** | Automatización de extracción y procesamiento de catálogos y productos desde plataformas web. *(Python, BeautifulSoup, Selenium, Pandas)* |
 | 📈 **Analítica de Datos & Machine Learning** | Limpieza, modelado estadístico, visualización y entrenamiento de modelos analíticos. *(RStudio, Tidyverse, Dplyr, Ggplot2)* |
@@ -60,8 +72,8 @@ Tengo experiencia creando activos digitales desde la fase de concepto y modelado
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radial" alt="Lenguajes más usados" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchezvazquezjesus825-eng&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezvazquezjesus825-eng&layout=compact&theme=radial" alt="Lenguajes más usados" width="45%" />
 </p>
 
 ---
