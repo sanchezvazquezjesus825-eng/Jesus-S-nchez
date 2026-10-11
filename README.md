@@ -10,10 +10,12 @@
 > Descripción y capturas del sistema desarrollado durante el periodo de estadías profesionales.
 
 <p align="center">
-  <!-- Reemplaza "estadia1.png", "estadia2.png" por los nombres de tus archivos subidos a este repositorio -->
-  <img src="estadia1.png" alt="Captura 1 del Proyecto" width="45%" />
-  <img src="estadia2.png" alt="Captura 2 del Proyecto" width="45%" />
+  <img src="nombre-de-tu-imagen-1.png" alt="Captura 1 del Proyecto" width="45%" />
+  <img src="nombre-de-tu-imagen-2.png" alt="Captura 2 del Proyecto" width="45%" />
 </p>
+
+- **Descripción:** Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales adaptadas a requerimientos reales.
+- **Tecnologías utilizadas:** React, Node.js, PostgreSQL, CSS / Tailwind.
 
 - **Descripción:** Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales adaptadas a requerimientos reales.
 - **Tecnologías utilizadas:** React, Node.js, PostgreSQL, CSS / Tailwind.
