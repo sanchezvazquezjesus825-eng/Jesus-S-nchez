@@ -5,18 +5,17 @@
 
 ---
 
-### 🎓 Proyecto de Estadías / Desarrollo Profesional
+## 🎓 Proyecto de Estadías / Desarrollo Profesional
 
 > Descripción y capturas del sistema desarrollado durante el periodo de estadías profesionales.
 
 <p align="center">
-  <img src="WhatsApp Image 2026-10-11 at 14.54.12 (1).jpeg" alt="Captura 1 del Proyecto" width="45%" />
-  <img src="WhatsApp Image 2026-10-11 at 14.54.12 (2).jpeg" alt="Captura 2 del Proyecto" width="45%" />
+  <img src="WhatsApp Image 2026-10-11 at 2.54.24 PM. jpeg" alt="Captura 1 del Proyecto" width="45%" />
+  <img src="WhatsApp Image 2026-10-11 at 2.54.23 PM.jpeg" alt="Captura 2 del Proyecto" width="45%" />
 </p>
 
 - **Descripción:** Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales adaptadas a requerimientos reales.
 - **Tecnologías utilizadas:** React, Node.js, PostgreSQL, CSS / Tailwind.
-
 
 - **Descripción:** Desarrollo e implementación de sistemas de software, interfaces funcionales y arquitecturas digitales adaptadas a requerimientos reales.
 - **Tecnologías utilizadas:** React, Node.js, PostgreSQL, CSS / Tailwind.
